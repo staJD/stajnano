@@ -120,6 +120,16 @@ figcaption { color: var(--muted); font-size: .9rem; margin-top: 8px; }
   .spot-grid { grid-template-columns: 7fr 5fr; align-items: center; }
 }
 
+/* ---------- the foot controller: the four buttons ---------- */
+
+.choc { margin: 26px 0; padding: 20px; border: 1px solid var(--line); border-radius: 14px; background: var(--panel); }
+.choc h3 { margin-bottom: .2em; }
+.choc-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; max-width: 640px; margin: 16px 0 12px; }
+.choc-btn { background: #0b0b0d; border: 2px solid var(--line); border-radius: 14px; padding: 12px 6px 10px; text-align: center; }
+.choc-btn b { display: block; font-family: var(--head); font-size: 2.3rem; line-height: 1; color: #fff; margin-bottom: 6px; }
+.choc-btn span { display: block; font-size: .82rem; line-height: 1.25; color: var(--muted); }
+.choc-btn .hold { margin-top: 6px; color: var(--yellow); font-weight: 700; }
+
 /* ---------- family apps ---------- */
 
 .family { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
