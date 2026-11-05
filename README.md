@@ -79,5 +79,5 @@ https://stajd.github.io/stajnano/
 ## Rules
 
 - Never put the app's source, the protocol notes, the measured catalogue, logs or release packages in this repository: it is public.
-- Always say "unofficial" and never use the maker's name, logo or product names, as in the app itself. The footer carries the notice.
+- Always say "unofficial". The site names the Nano Cortex and Neural DSP only as the device StajNano works with (user decision, 2026-11-06), never with a logo or a mark, and every page's footer carries the notice: independent and unofficial, not made or endorsed by Neural DSP, the trademark owners (Neural DSP Technologies, Kemper GmbH) and a no-warranty sentence ("as is", no guarantee that it works with every unit or firmware version). The APP itself still carries no maker's or product's name. Do not write "the only app that ...": nothing here can prove it.
 - If the privacy policy changes, update its effective date.
